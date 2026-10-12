@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Tembus Media — Press release nasional dan daerah",
+      "hasCanvas": false,
+      "bodyTextLen": 5356,
+      "bodyTextHash": "d7224fe8e836cf3ba699ec6ce92ed831b6512b33d1d0d4d462ea38337840f698",
+      "bodyTextPrefix": "Loncat ke isi JAKARTA POLITIK & INSTITUSI PUBLIK PAKET A–C T Tem",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Tembus Media — Press release nasional dan daerah",
+      "hasCanvas": false,
+      "bodyTextLen": 5245,
+      "bodyTextHash": "9bba45136c61ed680e4fe33b0778d47130e5ecc3a77d1a739a6060b02410865f",
+      "bodyTextPrefix": "Loncat ke isi JAKARTA PAKET A–C T Tembus Media Buka menu JASA PR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
